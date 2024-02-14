@@ -21,3 +21,4 @@ The tools i love using the most
 >19. Neovim and kate and visual studiocode for Editing and Coding Purpose
 >20. scrcpy for mirroring android screen to the desktop
 >21. XDM and uget for Downloading
+>22. Obsidain, tmux, neovim, inkscape, gnome, upscayl, komikku, lyx,libreoffice suite
